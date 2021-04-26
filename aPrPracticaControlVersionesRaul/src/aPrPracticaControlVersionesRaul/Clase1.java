@@ -7,7 +7,9 @@ public class Clase1 {
 
 		//Esta es la clase1
 		
-		//Primera modificación
+		//Primera modificaciÃ³n
+		
+		//Conflicto
 		
 	}
 
